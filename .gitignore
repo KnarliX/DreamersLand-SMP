@@ -1,0 +1,11 @@
+# Ignore large binary files
+paper.jar
+plugins/*.jar
+world/
+logs/
+cache/
+*.log
+
+# Ignore some system files
+.DS_Store
+Thumbs.db

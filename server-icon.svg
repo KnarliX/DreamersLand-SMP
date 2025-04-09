@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" fill="#3C93D5" rx="5" ry="5"/>
+  
+  <!-- Stylized D for Dreamers -->
+  <path d="M20 15 L20 50 L35 50 C45 50 48 40 48 32 C48 24 45 15 35 15 Z" fill="#8BC34A" stroke="#4CAF50" stroke-width="2"/>
+  <path d="M25 20 L25 45 L35 45 C42 45 43 38 43 32 C43 26 42 20 35 20 Z" fill="#3C93D5"/>
+  
+  <!-- Stars for "dreamers" theme -->
+  <polygon points="50,18 52,23 57,24 53.5,28 54,33 50,30.5 46,33 46.5,28 43,24 48,23" fill="#FFD54F"/>
+  <polygon points="15,45 16,48 19,48 17,51 18,54 15,52.5 12,54 13,51 11,48 14,48" fill="#FFD54F"/>
+  <polygon points="37,8 38,11 41,11 39,14 40,17 37,15.5 34,17 35,14 33,11 36,11" fill="#FFD54F"/>
+</svg>
